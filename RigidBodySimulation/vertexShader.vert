@@ -5,7 +5,7 @@
 	---
 	Vertex shader for the OpenGL visualisation.
 */
-
+#version 330 core
 // VBO-ból érkezõ változók
 in vec3 vs_in_pos;
 in vec3 vs_in_normal;
