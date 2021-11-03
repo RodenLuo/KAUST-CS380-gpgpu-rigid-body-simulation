@@ -5,7 +5,7 @@
 2. Port the current repo to CUDA
 3. Implementate CPU version of the simulaiton
 4. Profile the OpenCL, CUDA, and CPU version on Windows, and Linux
-5. Implemente a molecular dynamics simulator if time allows
+5. Implement a molecular dynamics simulator if time allows
 
 ---
 
