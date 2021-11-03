@@ -1,3 +1,14 @@
+
+# KAUST CS380 project goal description
+
+1. Understand how does the rigid body simulation work
+2. Port the current repo to CUDA
+3. Implementate CPU version of the simulaiton
+4. Profile the OpenCL, CUDA, and CPU version on Windows, and Linux
+5. Implemente a molecular dynamics simulator if time allows
+
+---
+
 # GPU accelerated rigid body simulation with OpenGL and OpenCL.
 
 [![Rigid Body Simulation](https://github.com/SandorBalazsHU/elte-ik-gpgpu-rigid-body-simulation/blob/master/Images/Img01.jpg)](https://www.youtube.com/watch?v=ky2dFqLJdGQ)
